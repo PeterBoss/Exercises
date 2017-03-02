@@ -8,7 +8,7 @@ You can earn a maximum of 5 points for these exercises as outlined below:
      
      [Day-1 JS](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit?usp=sharing)
 * 1 point if you have completed most of the exercises from: [Javascript Day-2](https://docs.google.com/document/d/1sJimh38ZDpaJphQ0N98-PEyZ-MOSWphlDDTJJry9ngM/edit?usp=sharing)
-*	1 point if you have completed most of the exercises from Day-3: (Ajax)
+*	1 point if you have completed most of the exercises from [Day-3: (Ajax)](https://github.com/CphBusCosSem3/week5-javascript/blob/master/exercises/ajaxandjson.pdf)
 *	1 point for the exercise: exam-preparation_AJAX_JS.pdf
 * 1 point for the exercise: [exam-prepartion_TestAndMocking](https://docs.google.com/document/d/1mfJqecj_5WesTO8CQCZFfLSpdE-GmW0V0PnzuzIb3h8/edit?usp=sharing)
 
